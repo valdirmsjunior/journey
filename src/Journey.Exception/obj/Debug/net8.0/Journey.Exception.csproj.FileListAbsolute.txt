@@ -1,0 +1,13 @@
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/bin/Debug/net8.0/Journey.Exception.deps.json
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/bin/Debug/net8.0/Journey.Exception.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/bin/Debug/net8.0/Journey.Exception.pdb
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.AssemblyInfoInputs.cache
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.AssemblyInfo.cs
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.csproj.CoreCompileInputs.cache
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/refint/Journey.Exception.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.pdb
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/ref/Journey.Exception.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.ResourceErrorMessages.resources
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.csproj.GenerateResource.cache

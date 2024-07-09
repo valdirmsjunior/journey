@@ -1,0 +1,11 @@
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.deps.json
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.pdb
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.AssemblyInfoInputs.cache
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.AssemblyInfo.cs
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/refint/Journey.Infrastructure.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.pdb
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/ref/Journey.Infrastructure.dll

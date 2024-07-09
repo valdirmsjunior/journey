@@ -1,0 +1,11 @@
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/bin/Debug/net8.0/Journey.Communication.deps.json
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/bin/Debug/net8.0/Journey.Communication.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/bin/Debug/net8.0/Journey.Communication.pdb
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.AssemblyInfoInputs.cache
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.AssemblyInfo.cs
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.csproj.CoreCompileInputs.cache
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/refint/Journey.Communication.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.pdb
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/Debug/net8.0/ref/Journey.Communication.dll
