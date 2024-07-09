@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Api/Journey.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Api/Journey.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Api/Journey.Api.csproj",
+        "projectName": "Journey.Api",
+        "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Api/Journey.Api.csproj",
+        "packagesPath": "/Users/valdirmsjunior/.nuget/packages/",
+        "outputPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/valdirmsjunior/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/Journey.Application.csproj": {
+                "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/Journey.Application.csproj"
+              },
+              "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj": {
+                "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj"
+              },
+              "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj": {
+                "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/Journey.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/Journey.Application.csproj",
+        "projectName": "Journey.Application",
+        "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/Journey.Application.csproj",
+        "packagesPath": "/Users/valdirmsjunior/.nuget/packages/",
+        "outputPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/valdirmsjunior/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj": {
+                "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj"
+              },
+              "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj": {
+                "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj"
+              },
+              "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/Journey.Infrastructure.csproj": {
+                "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/Journey.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj",
+        "projectName": "Journey.Communication",
+        "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/Journey.Communication.csproj",
+        "packagesPath": "/Users/valdirmsjunior/.nuget/packages/",
+        "outputPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Communication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/valdirmsjunior/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj",
+        "projectName": "Journey.Exception",
+        "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/Journey.Exception.csproj",
+        "packagesPath": "/Users/valdirmsjunior/.nuget/packages/",
+        "outputPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Exception/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/valdirmsjunior/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/Journey.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/Journey.Infrastructure.csproj",
+        "projectName": "Journey.Infrastructure",
+        "projectPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/Journey.Infrastructure.csproj",
+        "packagesPath": "/Users/valdirmsjunior/.nuget/packages/",
+        "outputPath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/valdirmsjunior/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
