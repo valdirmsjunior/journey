@@ -9,3 +9,4 @@
 /Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/refint/Journey.Infrastructure.dll
 /Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.pdb
 /Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/ref/Journey.Infrastructure.dll
+/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.csproj.AssemblyReference.cache
