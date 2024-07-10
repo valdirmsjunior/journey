@@ -129,4 +129,8 @@
     <value>The end date of the trip must be equal to or later than the Start Date.</value>
     <comment/>
   </data>
+  <data name="TRIP_NOT_FOUND" xml:space="preserve">
+    <value>Trip not found</value>
+    <comment/>
+  </data>
 </root>
