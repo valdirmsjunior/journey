@@ -33,7 +33,7 @@ namespace Journey.Api.Controllers
             
         }
 
-        [HttpGet]
+        [HttpGet("ListarTrips")]
         public IActionResult GetAll()
         {
             var useCase = new GetAllTripsUseCase();
