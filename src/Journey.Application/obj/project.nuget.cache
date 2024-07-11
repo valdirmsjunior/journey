@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fjDFVf4Os0tA5X6IIn3ogFpzVJN50GuHL0pf5TWPPLHkPW/fJfZynhGv4JJ7VmkD+jA4541roQdQsibmKMmfUA==",
+  "dgSpecHash": "c5bs8r/SuDazIsD/TJ3+QxHYWoV6P8w9+XBpr1S56W0ea4l5gSej2To8yH6EbLNjIfLc7JETSU2GtPXP0E9NXw==",
   "success": true,
   "projectFilePath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/src/Journey.Application/Journey.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/valdirmsjunior/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
     "/Users/valdirmsjunior/.nuget/packages/microsoft.data.sqlite.core/8.0.7/microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "/Users/valdirmsjunior/.nuget/packages/microsoft.entityframeworkcore/8.0.7/microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "/Users/valdirmsjunior/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.7/microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TeCTrVgFZB4VQqmoFmN0TK3LsCB7TGUhRYe3eeRTbfLUpPecKtXH5NQS1LYQChAQjuduT19gD1P5QewhjXmmUQ==",
+  "dgSpecHash": "+AeCJrIpTTovOyPzf31DCE+Sda17iQO+u3mrp/lqi+kWuxByzDWW1CP6RmsrenwO4noGDs0yiGe9F2h7uhtKMw==",
   "success": true,
   "projectFilePath": "/Users/valdirmsjunior/www/rocketseat/nwl/Journey/tests/Validators.Test/Validators.Test.csproj",
   "expectedPackageFiles": [
     "/Users/valdirmsjunior/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/valdirmsjunior/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
     "/Users/valdirmsjunior/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/Users/valdirmsjunior/.nuget/packages/microsoft.data.sqlite.core/8.0.7/microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "/Users/valdirmsjunior/.nuget/packages/microsoft.entityframeworkcore/8.0.7/microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
