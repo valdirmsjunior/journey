@@ -1,4 +1,5 @@
 using System;
+using Journey.Application.UseCases.Activities.Register;
 using Journey.Application.UseCases.Trips.Delete;
 using Journey.Application.UseCases.Trips.GetAll;
 using Journey.Application.UseCases.Trips.GetById;
@@ -16,7 +17,7 @@ namespace Journey.Api.Controllers
     {
         [HttpPost]
         [ProducesResponseType(typeof(ResponseShortTripJson), StatusCodes.Status201Created)]
-        [ProducesResponseType(typeof(string), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
         public IActionResult Register([FromBody] RequestRegisterTripJson request)
         {
             var useCase = new RegisterTripUseCase();
@@ -39,7 +40,7 @@ namespace Journey.Api.Controllers
 
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(ResponseTripJson), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(string), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
         public IActionResult GetById([FromRoute] Guid id)
         {
             var useCase = new GetTripByIdUseCase();
@@ -50,13 +51,25 @@ namespace Journey.Api.Controllers
 
         [HttpDelete("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
-        [ProducesResponseType(typeof(string), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
         public IActionResult Delete([FromRoute] Guid id)
         {
             var useCase = new DeleteTripByIdUseCase();
             useCase.Execute(id);
 
             return NoContent();
+        }
+
+        [HttpPost("{tripId}/activity")]
+        [ProducesResponseType(typeof(ResponseActivityJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
+        public IActionResult RegisterActivity([FromRoute] Guid tripId, [FromBody] RequestRegisterActivityJson request)
+        {
+            var useCase = new RegisterActivityForTripUseCase();
+            var response = useCase.Execute(tripId, request);
+
+            return Created(string.Empty, response);
         }
     }
 }
